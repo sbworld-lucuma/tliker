@@ -1,3 +1,6 @@
+// Auto likes posts and runs on a schedule
+// uses this twitter library: https://github.com/linvi/tweetinvi
+
 public async Task Any(AutoLikeSchedule req)
         {
 
